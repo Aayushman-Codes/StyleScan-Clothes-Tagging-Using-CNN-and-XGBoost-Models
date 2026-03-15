@@ -1,6 +1,6 @@
-# Fashion Product Automated-Tagging System
+# StyleScan - Fashion Product-Tagging System
 
-An **AI-powered fashion product classification and price prediction system** that automatically tags fashion product images by **color**, **product type**, and predicts their **estimated price** using integrated **deep learning (ResNet50 CNN)** and **XGBoost** models.
+An **AI-powered fashion product classification and price prediction system** that automatically tags fashion product images by **color**, **product type**, and predicts their **estimated price** using integrated **deep learning (ResNet50 CNN)** and **XGBoost** models. Trained using MNIST Fashion and H&M Personalized Fashion Recommendations Datasets from Kaggle.
 
 ---
 
